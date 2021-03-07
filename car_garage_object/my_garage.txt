@@ -1,0 +1,7 @@
+bmw,m3,2019,white
+bmw,m4,2020,pearl white
+bmw,m9,2021,black
+lamborghini,huracan,2018,black
+nissan,skyline,1994,grey
+toyota,supra,2020,blue
+ford,gt,2000,white
