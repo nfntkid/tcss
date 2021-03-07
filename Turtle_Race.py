@@ -1,3 +1,5 @@
+# BET ON A TURTLE AND SEE IF YOU CAN GET TO THE DESIRED AMOUNT!
+
 import time
 import os
 import random
