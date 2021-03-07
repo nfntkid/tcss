@@ -31,7 +31,7 @@ upper = list(string.ascii_uppercase)
 def clr(x):
   time.sleep(x)
   os.system('clear')
-
+ 
 
 # the printWord function
 # displays the password
