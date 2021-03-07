@@ -87,5 +87,5 @@ while True:
       break                                                                   ###
     else:                                                                     ###
       print("Champion!")                                                      ###
-      break                                                                   ###
+      break                                                                   ### 
 ###################### ^^^ THIS IS RESPONSIBLE FOR RUNNING THE WHILE LOOP ^^^ ###
