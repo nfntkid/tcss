@@ -31,7 +31,7 @@ paddle_p2.speed(0)
 paddle_p2.shape("square")
 paddle_p2.color("red")
 paddle_p2.penup()
-paddle_p2.goto(350, 0)
+paddle_p2.goto(350, 0) 
 
 # Ball
 ball = turtle.Turtle()
