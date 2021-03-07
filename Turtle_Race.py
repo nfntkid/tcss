@@ -40,7 +40,7 @@ pen.hideturtle()
 # x+=50 increases x by 50 so that the line shifts to the right
 # we then hide the pen using hideturtle()
 
-
+ 
 
 r1 = turtle.Turtle()
 r2 = turtle.Turtle()
