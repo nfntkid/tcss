@@ -1,6 +1,6 @@
 import random, time, os, string
 
-
+# SIMPLE PASSWORD GENERATOR
 ################################################
 #
 # weak    - lowercase and numbers only,
